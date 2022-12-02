@@ -383,6 +383,7 @@ overflow-x: hidden;
   margin-inline: auto;
 }
 
+/*********
 .hero-banner .w-100 {
   mask-image: url("../images/Blob.svg");
   -webkit-mask-image: url("../images/Blog.svg");
@@ -393,6 +394,7 @@ overflow-x: hidden;
   mask-size: auto;
   -webkit-mask-size: auto;
 }
+********/
 
 .hero .shape {
   position: absolute;
