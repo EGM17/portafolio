@@ -462,7 +462,7 @@ overflow-x: hidden;
 .about-card .card-title { margin-block: 16px 10px; }
 
 .card-text {
-  text-align: justify;
+  font-size: 15px;
 }
 
 
