@@ -403,6 +403,10 @@ overflow-x: hidden;
   filter: drop-shadow(var(--shadow-2));
 }
 
+.shape {
+ border-radius: 5px;
+}
+
 .hero-content { text-align: center; }
 
 .hero .section-text { margin-block: 24px 36px; }
