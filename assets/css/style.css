@@ -336,7 +336,7 @@ overflow-x: hidden;
 
 .nav-close-btn:is(:hover, :focus-visible) { background-color: var(--white_a12); }
 
-.navbar-list { margin-block-end: auto; }
+.navbar-list { margin-block-end: 90%; }
 
 .navbar-link {
   font-weight: var(--fw-700);
@@ -605,7 +605,7 @@ textarea.input-field {
     gap: 12px;
   }
   /** HEADER **/
-  .navbar-list { margin-block-end: 90%; }
+  .navbar-list { margin-block-end: auto; }
 
 
   /**
