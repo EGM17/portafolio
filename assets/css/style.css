@@ -171,7 +171,6 @@ overflow-x: hidden;
 .social-list {
   display: flex;
   align-items: center;
-  justify-content: center;
   gap: 12px;
 }
 
@@ -578,7 +577,7 @@ textarea.input-field {
   #MEDIA QUERIES
 \*-----------------------------------*/
 
-/**
+/** 
  * responsive for large than 575px screen
  */
 
@@ -592,6 +591,13 @@ textarea.input-field {
     max-width: 540px;
     width: 100%;
     margin-inline: auto;
+  }
+  
+  .social-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
   }
 
 
