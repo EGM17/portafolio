@@ -570,11 +570,6 @@ textarea.input-field {
 
 .footer .social-link { color: var(--charcoal); }
 
-footer .container {
-  display: flex; 
-  flex-direction: column;
-}
-
 
 
 
@@ -683,6 +678,10 @@ footer .container {
     align-items: center;
   }
 
+  .container-footer {
+    display: flex;
+    flex-direction: column;
+  }
   .copyright { margin-block-end: 0; }
 
 }
