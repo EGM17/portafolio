@@ -567,7 +567,7 @@ textarea.input-field {
 
 .footer { padding-block: 40px; }
 
-.copyright { margin-block-end: 12px; }
+.copyright { margin-block-end: 12px; text-align: center;}
 
 .footer .social-link { color: var(--charcoal); }
 
