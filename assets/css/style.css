@@ -175,11 +175,6 @@ overflow-x: hidden;
   gap: 12px;
 }
 
-.social-list-mod {
-  display: flex;
-  justify-content: center;
-}
-
 .social-link {
   font-size: 2rem;
   transition: var(--transition-1);
