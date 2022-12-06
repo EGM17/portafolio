@@ -604,7 +604,8 @@ textarea.input-field {
     justify-content: center;
     gap: 12px;
   }
-
+  /** HEADER **/
+  .navbar-list { margin-block-end: 90%; }
 
 
   /**
