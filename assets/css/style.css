@@ -331,7 +331,7 @@ overflow-x: hidden;
 
 .nav-close-btn:is(:hover, :focus-visible) { background-color: var(--white_a12); }
 
-.navbar-list { margin-block-end: auto; }
+.navbar-list { margin-block-end: 80%; }
 
 .navbar-link {
   font-weight: var(--fw-700);
