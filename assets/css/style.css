@@ -570,6 +570,10 @@ textarea.input-field {
 
 .footer .social-link { color: var(--charcoal); }
 
+footer .container {
+  display: flex; 
+  flex-direction: column;
+}
 
 
 
