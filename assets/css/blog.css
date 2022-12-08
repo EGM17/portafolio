@@ -375,7 +375,9 @@
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     justify-items: center;
 }
-
+.grid-blog{
+    padding-block-start: calc(var(--section-padding) + 50px);
+}
 
 
 
