@@ -381,10 +381,9 @@
 
 .blog-element{
     background-color: #c7b1dd;
-    box-shadow: 0px 0px 1px 1px;
 }
-.img-blog-card {
-    width: 90%;
+.img-blog-grid {
+    width: 100%;
 }
 
 
