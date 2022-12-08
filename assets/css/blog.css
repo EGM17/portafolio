@@ -379,11 +379,11 @@
     padding-block-start: calc(var(--section-padding) + 50px);
 }
 
-.blog-element{
-    background-color: #c7b1dd;
-}
 .img-blog-grid {
     width: 100%;
+}
+.blog-content-card{
+    background-color: #c7b1dd;
 }
 
 
