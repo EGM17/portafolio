@@ -372,7 +372,7 @@
 
 .blog-card {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     justify-items: center;
 }
 .grid-blog{
@@ -557,6 +557,9 @@
   
     .container,
     .header { max-width: 1140px; }
+    .blog-card {
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
   
 }
 
