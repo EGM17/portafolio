@@ -371,9 +371,10 @@
 \*-----------------------------------*/
 
 .blog-card {
-    display: grid;
+    display: grid;  
     grid-template-columns: 1fr;
     justify-items: center;
+    gap: 15px;
 }
 .grid-blog{
     padding-block-start: calc(var(--section-padding) + 50px);
